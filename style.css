@@ -121,13 +121,13 @@ li::marker {
     color: var(--color-accent);
 }
 
-.reflection {
-    columns: 2;
-    column-gap: 2em;
+.final-reflection {
+    max-width: 70ch;
 }
 
-.reflection p {
+.final-reflection p {
     margin-top: 0;
+    margin-bottom: 1.2em;
 }
 
 footer {
