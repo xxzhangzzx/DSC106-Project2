@@ -150,3 +150,11 @@ footer {
         columns: 1;
     }
 }
+
+.subtitle {
+    display: block;
+    margin-top: 0.4em;
+    font-size: 45%;
+    font-weight: 500;
+    color: var(--color-muted);
+}
